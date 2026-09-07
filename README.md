@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o João Cícero! 👋
 
-<!--
-**JoaoCiceroPB/JoaoCiceroPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Web em formação focado em transformar ideias em aplicações funcionais e responsivas.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias & Ferramentas
+- **Linguagens & Web:** HTML5, CSS3, JavaScript
+- **Em aprendizado:** React, Node.js, Desenvolvimento Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Principais Projetos
+- **[Projeto Site Sandra](https://github.com/JoaoCiceroPB/Projeto-Site-Sandra):** Landing page para escritório de advocacia.
+
+## 📫 Vamos nos conectar?
+- **LinkedIn:** [João Cícero](https://www.linkedin.com/in/joaocicerodev)
+- **E-mail:** johnfilthpb2@gmail.com
