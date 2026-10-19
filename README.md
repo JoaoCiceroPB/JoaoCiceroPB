@@ -3,8 +3,10 @@
 Desenvolvedor Web em formação focado em transformar ideias em aplicações funcionais e responsivas.
 
 ## 🚀 Tecnologias & Ferramentas
-- **Linguagens & Web:** HTML5, CSS3, JavaScript
-- **Em aprendizado:** React, Node.js, Desenvolvimento Full Stack
+
+- **Linguagens e Web:** HTML5, CSS3, Bootstrap
+- **Controle de versão:** Git e GitHub
+- **Em aprendizagem:** JavaScript, React, Node.js, Desenvolvimento Full Stack
 
 ## 📌 Principais Projetos
 - **[Projeto Site Sandra](https://github.com/JoaoCiceroPB/Projeto-Site-Sandra):** Landing page para escritório de advocacia.
